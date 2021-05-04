@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "whetherproject",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Divyansh Jaipuriyar",
+  "license": "ISC",
+  "description": ""
+}
